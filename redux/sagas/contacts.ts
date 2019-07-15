@@ -25,7 +25,6 @@ function* getContactsWatcher() {
   }
 
   function* createContactWatcher() {
-      // do some real work
       yield takeEvery(CREATE_CONTACT, createContact);
   }
 
@@ -36,7 +35,8 @@ function* getContactsWatcher() {
   }
 
   function* editContact(action: EditContactsAction) {
-  // let someAction = ...
+    // do some real work
+    // let someAction = ...
     yield put(someAction);
   }
 
