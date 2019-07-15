@@ -2,6 +2,7 @@
 
 Stack:
 
+Expo
 Typescript
 React-native
 React-Navigation
