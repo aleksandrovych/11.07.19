@@ -9,12 +9,12 @@
     "clean-watchmans": "watchman watch-del-all && react-native start --reset-cache"
   },
   "dependencies": {
-    "@types/lodash": "^4.14.136",
+    "@types/lodash": "^4.17.20",
     "@types/redux-logger": "^3.0.7",
     "expo": "^33.0.0",
     "expo-cli": "^2.21.2",
     "formik": "^1.5.8",
-    "lodash": "^4.17.14",
+    "lodash": "^4.17.21",
     "react": "^16.8.3",
     "react-native": "https://github.com/expo/react-native/archive/sdk-33.0.0.tar.gz",
     "react-native-elements": "^1.1.0",
