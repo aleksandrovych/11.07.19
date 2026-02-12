@@ -11,7 +11,7 @@
   "dependencies": {
     "@types/lodash": "^4.14.136",
     "@types/redux-logger": "^3.0.7",
-    "expo": "^33.0.0",
+    "expo": "^48.0.0",
     "expo-cli": "^2.21.2",
     "formik": "^1.5.8",
     "lodash": "^4.17.14",
